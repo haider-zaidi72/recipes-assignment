@@ -14,7 +14,7 @@ let data =[ {
 {
     id: 2,
     title: "Vegetarian Stir-Fry",
-    body: "Heat sesame oil, add tofu, and veggies...",
+    body: "First, make the sauce. In a small bowl or jar, whisk together the soy sauce, sesame oil, rice vinegar, honey, garlic, ginger, cornstarch, water, and red pepper flakes, if using.Next cook the vegetables. Heat a drizzle of olive oil or neutral oil in a large skillet or wok over high heat.",
     image: "https://cdn.dummyjson.com/recipe-images/2.webp",
     rating: 4.7,
     reviewCount: 26,
@@ -23,7 +23,7 @@ let data =[ {
  {
     id: 3,
     title: "Chocolate Chip Cookies",
-    body: "Mix dough, add chips, and bake...",
+    body: "Preheat the oven to 475°F (245°C).Roll out the pizza dough and spread tomato sauce evenly.Top with slices of fresh mozzarella and fresh basil leaves.Drizzle with olive oil and season with salt and pepper.Bake in the preheated oven for 12-15 minutes or until the crust is golden brown.Slice and serve hot.",
     image: "https://cdn.dummyjson.com/recipe-images/3.webp",
     rating: 4.9,
     reviewCount: 13,
